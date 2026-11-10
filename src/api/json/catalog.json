@@ -2496,7 +2496,7 @@
       "name": "Codex",
       "description": "OpenAI Codex configuration file",
       "fileMatch": ["**/.codex/config.toml"],
-      "url": "https://learn.chatgpt.com/docs/config-schema.json"
+      "url": "https://raw.githubusercontent.com/openai/codex/main/codex-rs/core/config.schema.json"
     },
     {
       "name": "Codex Hooks",
