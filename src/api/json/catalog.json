@@ -1,5 +1,5 @@
 {
-  "$schema": "https://www.schemastore.org/schema-catalog.json",
+  "$schema": "https://json.schemastore.org/schema-catalog.json",
   "version": 1,
   "schemas": [
     {
@@ -2496,7 +2496,7 @@
       "name": "Codex",
       "description": "OpenAI Codex configuration file",
       "fileMatch": ["**/.codex/config.toml"],
-      "url": "https://developers.openai.com/codex/config-schema.json"
+      "url": "https://raw.githubusercontent.com/openai/codex/main/codex-rs/core/config.schema.json"
     },
     {
       "name": "Codex Hooks",
